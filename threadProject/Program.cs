@@ -12,7 +12,7 @@ namespace threadProject
 	internal static class Program
 	{
 		public static NpgsqlConnection connection;
-		public static string connectionString = "Host=localhost;Port=5432;Database=Threads;Username=postgres;Password=2861";
+		public static string connectionString = "Host=localhost;Port=****;Database=*******;Username=****;Password=****";
 		public static List<Customer> customersList = new List<Customer>();
 		public static List<Order> orderList = new List<Order>();
 		public static Admin a = new Admin();

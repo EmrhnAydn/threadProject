@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\emirh\\source\\repos\\threadProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|c:\\users\\emirh\\source\\repos\\threadproject\\threadproject\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\customerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\customerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\globalevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\globalevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,15 +35,7 @@
       "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|c:\\users\\emirh\\source\\repos\\threadproject\\threadproject\\workerthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\workerthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\workerthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\customerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\customerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|C:\\Users\\emirh\\source\\repos\\threadProject\\threadproject\\customerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{42400A8B-F6AE-414B-A883-EE3F0EB31AC8}|threadProject\\threadProject.csproj|solutionrelative:threadproject\\customerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AdminPanel.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\AdminPanel.cs",
               "RelativeDocumentMoniker": "threadProject\\AdminPanel.cs",
@@ -76,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GlobalEvents.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\GlobalEvents.cs",
               "RelativeDocumentMoniker": "threadProject\\GlobalEvents.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\GlobalEvents.cs",
               "RelativeToolTip": "threadProject\\GlobalEvents.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAA7wCUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwCUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T20:54:44.765Z",
               "IsPinned": true,
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\Order.cs",
               "RelativeDocumentMoniker": "threadProject\\Order.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdminPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\AdminPanel.cs",
               "RelativeDocumentMoniker": "threadProject\\AdminPanel.cs",
@@ -116,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\Admin.cs",
               "RelativeDocumentMoniker": "threadProject\\Admin.cs",
@@ -129,20 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\Form1.cs",
               "RelativeDocumentMoniker": "threadProject\\Form1.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\Form1.cs",
               "RelativeToolTip": "threadProject\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T12:51:05.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\Program.cs",
               "RelativeDocumentMoniker": "threadProject\\Program.cs",
@@ -154,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WorkerThread.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\WorkerThread.cs",
               "RelativeDocumentMoniker": "threadProject\\WorkerThread.cs",
@@ -162,12 +162,11 @@
               "RelativeToolTip": "threadProject\\WorkerThread.cs",
               "ViewState": "AgIAAHUAAAAAVBbBgo8QwP0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T15:51:27.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T15:51:27.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CustomerPanel.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\CustomerPanel.cs",
               "RelativeDocumentMoniker": "threadProject\\CustomerPanel.cs",
@@ -175,11 +174,12 @@
               "RelativeToolTip": "threadProject\\CustomerPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:46:47.558Z"
+              "WhenOpened": "2024-12-12T20:46:47.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\Customer.cs",
               "RelativeDocumentMoniker": "threadProject\\Customer.cs",
@@ -187,12 +187,11 @@
               "RelativeToolTip": "threadProject\\Customer.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA5wBEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T02:42:05.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T02:42:05.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\Form1.cs",
               "RelativeDocumentMoniker": "threadProject\\Form1.cs",
@@ -204,14 +203,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "CustomerPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\CustomerPanel.cs",
               "RelativeDocumentMoniker": "threadProject\\CustomerPanel.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\threadProject\\threadProject\\CustomerPanel.cs [Design]",
               "RelativeToolTip": "threadProject\\CustomerPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:46:18.563Z"
+              "WhenOpened": "2024-12-12T20:46:18.563Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
